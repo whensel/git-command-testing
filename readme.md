@@ -1,2 +1,4 @@
 # Git Command Testing
-William Hensel
+
+Will Hensel
+
